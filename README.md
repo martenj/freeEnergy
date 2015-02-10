@@ -1,2 +1,2 @@
 # freeEnergy
-Aligfnments and freeEnergy calculation
+Alignments and freeEnergy calculation
